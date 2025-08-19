@@ -10,8 +10,16 @@
   },
   {
     "title": "Airtel TV",
-    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/airtel.png",
-    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u",
+    "logo": "https://i.ibb.co/8g6TX54P/Air.png",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/artl.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Airtel"
+  },
+  {
+    "title": "Jio TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+    "url": "https://allinonereborn.fun/playlist/jiotv-ww141.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "HD Channels From Airtel"

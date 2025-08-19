@@ -1,13 +1,51 @@
 [
-{
-  "name": "World Sports Live",
-  "short_name": "SportsLive",
-  "start_url": "https://m3u.ch/pl/2b922d1328a51c5181d7dba5d23c604f_e6b0289f233ae66b8e068c0209b726ab.m3u",
-  "display": "standalone",
-  "background_color": "#111827",
-  "theme_color": "#f59e0b",
-  "icons": [
-    { "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>", "sizes": "any" }
-  ]
-}
+
+  {
+    "title": "Sony Liv",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/sonyliv.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/sonyliv.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Live Tv Channels of Sony Liv"
+  },
+  {
+    "title": "Airtel TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/airtel.png",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/jstar.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "HD Channels From Airtel"
+  },
+  {
+    "title": "CricHD",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/crichd.png",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/crichd.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Watch All Cric HD Sports Channels live"
+  },
+  {
+    "title": "Shoq TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrlWLa46kZ6A-l4m9SOOZSpZ3UGRi7s-LEQ&s",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/shoq.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Pakistani TV Channels"
+  },
+  {
+    "title": "YuppTV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/yupptv.jpg",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/yupptv.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Free Channels available of YuppTV"
+  },
+  {
+    "title": "Mxplayer TV",
+    "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/mxplayer.png",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/data/mxplay.m3u",
+    "type": "livetv",
+    "version": "1.0",
+    "description": "Free Channels available on MX Player"
+  }
 ]

@@ -19,7 +19,7 @@
   {
     "title": "Jio TV",
     "logo": "https://i.ibb.co/GvtYWHTs/images-1.png",
-    "url": "https://teachub.strangled.net/JIO1/playlist.php",
+    "url": "https://raw.githubusercontent.com/alex4528/m3u/main/artl.m3u",
     "type": "livetv",
     "version": "1.0",
     "description": "HD Channels Jiotv"
